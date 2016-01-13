@@ -1,0 +1,71 @@
+Some snippets that can be helpful
+
+<h3>Cast</h3>
+<table>
+    <thead>
+        <tr>
+            <th>Actor</th>
+            <th>Character</th>
+        </tr>
+    </thead>
+    <tr>
+        <td>Jeff Bridges</td>
+        <td>Jeffrey Lebowski - The Dude</td>
+    </tr>
+    <tr>
+        <td>John Goodman</td>
+        <td>Walter Sobchak</td>
+    </tr>
+    <tr>
+        <td>Julianne Moore</td>
+        <td>Maude Lebowski</td>
+    </tr>
+    <tr>
+        <td>Steve Buscemi</td>
+        <td>Theodore Donald 'Donny' Kerabatsos</td>
+    </tr>
+    <tr>
+        <td>David Huddleston</td>
+        <td>Jeffrey Lebowski - The Big Lebowski</td>
+    </tr>
+    <tr>
+        <td>Philip Seymour Hoffman</td>
+        <td>Brandt</td>
+    </tr>
+    <tr>
+        <td>Tara Reid</td>
+        <td>Bunny Lebowski</td>
+    </tr>
+    <tr>
+        <td>Philip Moon</td>
+        <td>Woo, Treehorn Thug</td>
+    </tr>
+    <tr>
+        <td>Mark Pellegrino</td>
+        <td>Blond Treehorn Thug</td>
+    </tr>
+    <tr>
+        <td>Peter Stormare</td>
+        <td>Nihilist #1, Uli Kunkel / 'Karl Hungus'</td>
+    </tr>
+    <tr>
+        <td>Flea</td>
+        <td>Nihilist #2, Kieffer</td>
+    </tr>
+    <tr>
+        <td>Torsten Voges</td>
+        <td>Nihilist #3, Franz</td>
+    </tr>
+    <tr>
+        <td>Jimmie Dale Gilmore</td>
+        <td>Smokey</td>
+    </tr>
+    <tr>
+        <td>Jack Kehler</td>
+        <td>Marty</td>
+    </tr>
+    <tr>
+        <td>John Turturro</td>
+        <td>Jesus Quintana</td>
+    </tr>
+</table>
