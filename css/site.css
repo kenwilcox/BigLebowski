@@ -1,4 +1,4 @@
-﻿@import url(http://fonts.googleapis.com/css?family=Vollkorn:700italic);
+﻿/*@import url(http://fonts.googleapis.com/css?family=Vollkorn:700italic);
 
 * {
   font-family: sans-serif;
@@ -41,3 +41,10 @@ form > * {
   color: #c14d00;
   font-style: italic;
 }
+*/
+
+.p-t-10 {
+  padding-top: 80px;
+}
+
+.firstcharacter { float: left; color: #903; font-size: 75px; line-height: 60px; padding-top: 4px; padding-right: 8px; padding-left: 3px; font-family: Georgia; }
